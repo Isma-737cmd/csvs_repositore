@@ -1,0 +1,73 @@
+desde,hasta,metodo,nivel,objeto
+1,2,Nivel,16,
+2,3,Nivel,32,
+4,5,Nivel,16,
+5,6,Nivel,36,
+7,8,Nivel,16,
+8,9,Nivel,36,
+10,11,Nivel,7,
+11,12,Nivel,10,
+13,14,Nivel,7,
+14,15,Nivel,10,
+16,17,Nivel,18,
+17,18,Nivel,36,
+19,20,Nivel,20,
+21,22,Nivel,20,
+23,24,Nivel,22,
+25,26,Piedra,,Piedra Trueno
+27,28,Nivel,22,
+29,30,Nivel,16,
+30,31,Piedra,,Piedra Lunar
+32,33,Nivel,16,
+33,34,Piedra,,Piedra Lunar
+35,36,Piedra,,Piedra Lunar
+37,38,Piedra,,Piedra Fuego
+39,40,Piedra,,Piedra Lunar
+41,42,Nivel,22,
+43,44,Nivel,21,
+44,45,Piedra,,Piedra Hoja
+46,47,Nivel,24,
+48,49,Nivel,31,
+50,51,Nivel,26,
+52,53,Nivel,28,
+54,55,Nivel,33,
+56,57,Nivel,28,
+58,59,Piedra,,Piedra Fuego
+60,61,Nivel,25,
+61,62,Piedra,,Piedra Agua
+63,64,Nivel,16,
+64,65,Intercambio,,
+66,67,Nivel,28,
+67,68,Intercambio,,
+69,70,Nivel,21,
+70,71,Piedra,,Piedra Hoja
+72,73,Nivel,30,
+74,75,Nivel,25,
+75,76,Intercambio,,
+77,78,Nivel,40,
+79,80,Nivel,37,
+81,82,Nivel,30,
+84,85,Nivel,31,
+86,87,Nivel,34,
+88,89,Nivel,38,
+90,91,Piedra,,Piedra Agua
+92,93,Nivel,25,
+93,94,Intercambio,,
+96,97,Nivel,26,
+98,99,Nivel,28,
+100,101,Nivel,30,
+102,103,Piedra,,Piedra Hoja
+104,105,Nivel,28,
+109,110,Nivel,35,
+111,112,Nivel,42,
+116,117,Nivel,32,
+118,119,Nivel,33,
+120,121,Piedra,,Piedra Agua
+129,130,Nivel,20,
+133,134,Piedra,,Piedra Agua
+133,135,Piedra,,Piedra Trueno
+133,136,Piedra,,Piedra Fuego
+138,139,Nivel,40,
+140,141,Nivel,40,
+147,148,Nivel,30,
+148,149,Nivel,55,
